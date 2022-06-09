@@ -10,7 +10,4 @@ public class Welcomer{
 	public String sayNeedGold(){
 		return "Not enough gold";
 	}
-        public String sayHunter() {
-                return "When the first hunter succumbed to the curse of blood, nightmare filled the streets of Yarnam.";
-        }
 }
